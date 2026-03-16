@@ -4,19 +4,16 @@
 
    Description:
    This script performs Exploratory Data Analysis (EDA) on the
-   sales data warehouse.
+   sales data warehouse. The goal is to explore dimensions,
+   measures, and key business metrics to understand.
 
-   Objectives:
-   - Explore database structure
-   - Understand customer and product dimensions
-   - Analyze sales performance
-   - Calculate key business metrics
-   - Identify top customers and products
-
-   Database Tables:
-   gold.dim_customers  -> Customer dimension
-   gold.dim_products   -> Product dimension
-   gold.fact_sales     -> Sales fact table
+ Key Analysis Sections:
+   1. Database Exploration
+   2. Dimension Exploration
+   3. Data Exploration
+   4. Measures Exploration
+   5. Magnitude Exploration
+   6. Ranking Analysis
 ============================================================ */
 
 

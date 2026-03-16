@@ -33,7 +33,7 @@ The main objectives of this project are:
 
   ---
 
-  ## Skills Demonstrated
+## Skills Demonstrated
 
 - SQL Data Exploration
 

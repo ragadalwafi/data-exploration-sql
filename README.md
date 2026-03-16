@@ -1,1 +1,1 @@
-## Sales Data Exploratory Analysis (SQL)
+# Sales Data Exploratory Analysis (SQL)

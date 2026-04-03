@@ -61,11 +61,6 @@ Some insights that can be generated from this analysis include:
 - Product performance within each category
 
 --- 
-## Project Purpose
-
-This project demonstrates how SQL can be used for real-world data exploration and business intelligence analysis. It highlights the importance of understanding data before building dashboards or predictive models.
-
----
 
 ## Future Improvements
 
